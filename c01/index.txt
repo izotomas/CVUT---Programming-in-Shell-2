@@ -1,0 +1,3 @@
+backup.sh
+backup.sh~
+index.txt
