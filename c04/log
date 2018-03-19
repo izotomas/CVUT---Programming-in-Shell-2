@@ -1,0 +1,36 @@
+[2011/02/11-11:41:53] exec(29125): started> /usr/bin/rz_dispatcher
+[2011/02/11-11:41:56] shell(29125): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=NOOP|CAD_STATUS=NOOP
+[2011/02/11-11:41:56] shell(29125): rz_roles
+[2011/02/11-11:41:59] shell(29125): rz_classification_zk
+[2011/02/11-11:42:04] exec(29125): finished>
+[2011/02/11-12:49:42] exec(30155): started> /usr/bin/rz_dispatcher
+[2011/02/11-12:49:44] shell(30155): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DO|CAD_STATUS=NOOP
+[2011/02/11-12:49:44] shell(30155): rz_roles
+[2011/02/11-12:49:47] shell(30155): rz_classification_zk
+[2011/02/11-12:49:59] exec(30155): finished>
+[2011/02/11-12:51:37] exec(31182): started> /usr/bin/rz_dispatcher
+[2011/02/11-12:51:39] shell(31182): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DO|CAD_STATUS=NOOP
+[2011/02/11-12:51:39] shell(31182): rz_roles
+[2011/02/11-12:51:41] shell(31182): rz_classification_zk
+[2011/02/11-12:51:47] exec(31182): finished>
+[2011/02/11-12:52:20] exec(32131): started> /usr/bin/rz_dispatcher -vv
+[2011/02/11-12:52:23] shell(32131): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DO|CAD_STATUS=NOOP
+[2011/02/11-12:52:23] shell(32131): rz_roles
+[2011/02/11-12:52:25] shell(32131): rz_classification_zk
+[2011/02/11-12:52:31] exec(32131): finished>
+[2011/02/11-12:54:03] exec(847): started> /usr/bin/rz_dispatcher -vv
+[2011/02/11-12:54:05] shell(847): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DO|CAD_STATUS=NOOP
+[2011/02/11-12:54:05] shell(847): rz_roles
+[2011/02/11-12:54:08] shell(847): rz_classification_zk
+[2011/02/11-12:54:13] exec(847): finished>
+[2011/02/11-12:54:47] exec(1862): started> /usr/bin/rz_dispatcher
+[2011/02/11-12:54:49] shell(1862): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DO|CAD_STATUS=NOOP
+[2011/02/11-12:54:49] shell(1862): rz_roles
+[2011/02/11-12:54:51] shell(1862): rz_classification_zk
+[2011/02/11-12:54:57] exec(1862): finished>
+[2011/02/11-12:55:42] exec(2817): started> /usr/bin/rz_dispatcher
+[2011/02/11-12:55:45] shell(2817): status>SEMESTER=B102|AKTSEM=B102|STAVZAP=ZZ|CAC_STATUS=DONE|CAD_STATUS=NOOP
+[2011/02/11-12:55:45] shell(2817): rz_roles
+[2011/02/11-12:55:47] shell(2817): rz_classification_zk
+[2011/02/11-12:55:53] shell(2817): rz_classification
+[2011/02/11-12:56:00] exec(2817): finished>
